@@ -1,0 +1,12 @@
+{
+  "_comment": "v0.3 PIF - xfaryx0x",
+  "PRODUCT": "samsung",
+  "DEVICE": "x816b",
+  "MANUFACTURER": "samsung",
+  "BRAND": "samsung",
+  "MODEL": "SM-X816B",
+  "FINGERPRINT": "samsung/x816bxx/x816b:13/RP1A.200720.012/X816BXXU1BWL1:user/release-keys",
+  "SECURITY_PATCH": "null",
+  "FIRST_API_LEVEL": "null",
+  "KERNEL": "3.18.66-perf-gc8b1dc7"
+}
